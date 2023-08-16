@@ -1,2 +1,2 @@
 # Reaction-Timer
-Experience embedded systems firsthand with our Reaction Timer project using the TIVAC microcontroller. Build your own device guided by code, instructions, and circuits provided in this repository. Ideal for learners and enthusiasts seeking practical programming and hardware knowledge.
+This repository offers comprehensive guidance for crafting a precision reaction time measurement device. It encompasses detailed programming instructions, code snippets, and circuit schematics, facilitating the systematic development of your own reaction timer.
